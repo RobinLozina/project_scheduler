@@ -1,0 +1,34 @@
+# Ignore Debug and x64 folders
+Debug/
+x64/
+
+.vs/
+
+# Ignore build files and executables
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+*.out
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Mac OS files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
+desktop.ini
+
+# Ignore temporary files
+*.tmp
+*.log
+
+# Ignore compiled source files
+*.gcno
+*.gcda
+*.gch
+*.pdb

@@ -1,0 +1,14 @@
+Label;Durée en jours;Tâches antérieures;Désignation de la tâche
+1;6;0;Mise en place du projet
+2;3;0;Définition du budget
+3;2;1,2;Définition des contraintes du réseau
+4;5;3;Choix des fournisseurs et des intervenants
+5;8;4;Achat des composants matériels
+6;4;5;Commande de Novell Netware 5
+7;2;5;Mise à jour matérielle des postes
+8;5;4;Formation de l’administrateur réseau
+9;10;4;Cablage
+10;2;6,7,8,9;Installation Novell Netware 5
+11;1;10;Mise à jour logicielle des postes clients
+12;2;11;Mise à jour des groupes utilisateurs
+13;2;12;Mise à jour des droits d’accès

@@ -1,0 +1,14 @@
+Code;Durée (jours ouvr.);Tâches antérieures;Tâches
+1;50;0;Recherche d’un local
+2;45;1;Recherche d’un franchisé
+3;15;2;Constitution du dossier bancaire du franchisé
+4;10;3;Constitution du dossier à la Chambre de Commerce pour les inscriptions obligatoires
+5;30;2;Formation du franchisé
+6;20;1;Aménagement, plâterie, peinture du magasin
+7;25;1;Réfection, façade, enseigne
+8;15;6;Equipement chambre froide et rayonnages
+9;6;5,8;Implantation du magasin (disposition des articles)
+10;6;7;Tirage en imprimerie des feuillets publicitaires
+11;2;10;Distribution des feuillets publicitaires
+12;6;4;Liste et envoi des invitations pour l’inauguration
+13;1;9,11,12;Inauguration du magasin

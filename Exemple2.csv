@@ -1,0 +1,13 @@
+Etiquette;Durée;Prérequis;Description
+1;20;0;N'importe quoi
+2;30;0;mais attention
+3;10;0;pas de point virgule !
+4;3;1;---------------
+5;3;2;Attention
+6;3;4,5;si  encodes
+7;30;3;avec excel
+8;15;7;les prerequis
+9;4;6,8;doivent etre
+10;10;4;du texte car
+11;7;10,6;6,10 != 6,1
+12;1;9,11;Oufti !
